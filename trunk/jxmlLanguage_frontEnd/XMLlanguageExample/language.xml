@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE language SYSTEM "language.dtd">
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<language name="español">
+    <component id="txtNom">Ingrese el nombre</component>
+</language>
